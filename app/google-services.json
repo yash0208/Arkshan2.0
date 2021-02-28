@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "210719574800",
+    "project_id": "arakshan-f8eb1",
+    "storage_bucket": "arakshan-f8eb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210719574800:android:601a5378a2d34332f87395",
+        "android_client_info": {
+          "package_name": "com.rajaryan.arkshan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210719574800-25t01acp8gvpm0ouhcg8aatsnlsc7n1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rajaryan.arkshan",
+            "certificate_hash": "476056710f1209e42883366be9f75e6aee4c3744"
+          }
+        },
+        {
+          "client_id": "210719574800-38cg9ha6huqkh70b7a8tpmfkbrr7q9t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7MpwKK1sB0i6iVjcFy1NkaP_UAYmsFkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210719574800-38cg9ha6huqkh70b7a8tpmfkbrr7q9t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
